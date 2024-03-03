@@ -1,0 +1,7 @@
+## 너무 긴 정보들을 적는 장소
+
+//toDos.push하지 않을 것
+// setToDos(function (currentArrray) {
+//   return [toDo, ...currentArrray];
+//   //새로운 배열 안에 "배열"이 아니라 배열의 요소들을 추가할 때 ...배열 한다
+// });
